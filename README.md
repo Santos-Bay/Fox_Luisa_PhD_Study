@@ -1,6 +1,6 @@
 # Fox_Luisa_PhD_Study
 
-I'm a PhD candidate at the University of Copenhagenm, Center for Evolutionary Hologenomics. My PhD is atm entitled "The bugs and behaviours of animals – Hologenomics as a tool for studying the role of the gut microbiota in mammalian behaviour". The main aim of PhD thesis is to investigate how/if the gut microbiome influences animal behaviour using a hologenomic approach. I have two research studies in my PhD to assess this and they are called:
+I'm a PhD candidate at the University of Copenhagen, Center for Evolutionary Hologenomics. My PhD is atm entitled "The bugs and behaviours of animals – Hologenomics as a tool for studying the role of the gut microbiota in mammalian behaviour". The main aim of PhD thesis is to investigate how/if the gut microbiome influences animal behaviour using a hologenomic approach. I have two research studies in my PhD to assess this and they are called:
 1. Fox study (alias: behavioural fox study, fox project)
 2. Mice study (alias: BeHo study, BeHo project, behavioural hologenomics mice study)
 
@@ -10,7 +10,7 @@ https://docs.google.com/document/d/13SOUi5Yxq_MihZQy8W0XrG5qL448_isNdrylyaxvvPo/
 ## Project description
 Much evidence suggests that the gut microbiome influences animal behaviour, but many behavioural traits have still not been studied, especially those unassociated with disease. In this study, we compare two distinct behaviours in foxes that are either tame or aggressive to unveil if their gut microbiomes affect these behaviours, and if there are any microbial differences between them. At the Institute for Cytology and Genetics in Novosibirsk, Russia, a population of silver foxes (Vulpes vulpes) have been selected for over 50 generations to be either tame or aggressive, resulting in two genetically different groups. However, the role of their gut microbiomes has not been examined, we are therefore investigating it here using a hologenomic approach involving metatranscriptomic and metagenomic sequencing techniques. Moreover, a third, unselected, group of foxes exists as well. These foxes are nor tame or aggressive, and thus, they serve an ideal comparison group to, for example, explore the origin of the microbial patterns found in the tame and aggressive foxes.
 
-## Objctives
+## Objectives
 The objectives may need to be updated. But here goes:
 1. Generate MAGs based on two fox metagenomic data sets. One derives from the gut (my samples) and the other from feces (samples from a prior PhD student of Tom). Once the MAGs are generated, I am to compare these with each other - how similar or dissimilar are they.
 2. Generate RNA transcripts and compare these to the gut derived MAGs to see which gut microbes are active, at which sites (ileum and/or colon) and within which gut sample types (gut tissue and/or gut content)
